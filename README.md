@@ -3,12 +3,12 @@
 This visualization is made using the data published by the Department of Energy and Environment (DOEE) where information is collected on the The Clean and Affortable Energy Act of 2008.
 It contains all the energy and water consumption benchmarks of the properties having over 50,000 gross square feet of area. We have created a visualization to track the usage of building energy and GHG emission.
 
-Dataset: []
+Dataset: 
 
 #### Introduction
 
 The Map here displays all the properties by their property type and size of circle represenitng floor area, which have reported their benchmarks to the DOEE till 2018.
-
+![Introduction](./images/Introduction.png)
 
 
 #### Real Estate in Washington DC
