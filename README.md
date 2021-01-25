@@ -1,4 +1,4 @@
-# Beyond-Carbon Tableau-Visualization
+# Beyond Carbon Tableau Visualization
 
 This visualization is made using the data published by the Department of Energy and Environment (DOEE) where information is collected on the The Clean and Affortable Energy Act of 2008.
 It contains all the energy and water consumption benchmarks of the properties having over 50,000 gross square feet of area. We have created a visualization to track the usage of building energy and GHG emission.
@@ -14,7 +14,7 @@ The Map here displays all the properties by their property type and size of circ
 #### Real Estate in Washington DC
 
 Here we have grouped some of the similiar property type. In this part we are exploring the real estate growth with built year of each property in data for the washington DC over the span of years. Alongside also viewing the growth in each type of property.
-![Real Estate in Washington DC](./images/real estate in DC.png)
+![Real Estate in Washington DC](./images/realestate.png)
 
 
 #### Neighboorhood Analysis
@@ -27,4 +27,4 @@ In the plot below, we can view the benchmark of any property or a neighboorhood 
 #### Energy and GHG analysis
 
 Here we are drilling in to get insights for any property and its performance in each year through Energy Star Score (Performance Scale from 0 to 100) and compare it to national mean which is 50 and latest district mean of 2019 which is 74. Also having a look in its usage of Liquid Fuel and Natural gas throughout the years.
-![Energy and GHG analysis](./images/Energy and GHG analysis.png)
+![Energy and GHG analysis](./images/details.png)
