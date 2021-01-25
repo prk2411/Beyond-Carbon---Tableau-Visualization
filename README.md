@@ -21,7 +21,7 @@ Here we have grouped some of the similiar property type. In this part we are exp
 
 We are observing the Intensity of the Green House Gases in the map, where each point represents a property which has reported its benchmark to DOEE. The size of the circle of each property depends on the Intensity of the GHG Emission. All the properties belonging to a neighboorhood can be viewed and its overall benchmark can be seen in the plot below.
 In the plot below, we can view the benchmark of any property or a neighboorhood from 2011 to 2019, if registered every year. The Benchmarking measures include Energy used on site per square ft (SITE EUI), Source fuel used to operate per square ft (SOURCE EUI) and GHG Emmission Intensity (KGCO2/FT)
-![Neighboorhood Analysis](./images/neighboorhood.png)
+![Neighboorhood Analysis](./images/neighboorhoods.png)
 
 
 #### Energy and GHG analysis
